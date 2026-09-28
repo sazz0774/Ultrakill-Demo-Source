@@ -1,1 +1,1 @@
-I do not wish to figure out how to publish files separately, as it is a waste of time. Everything is available in an archive under Releases. I am not familiar with GitHub and, in fact, have no desire to be.
+I do not wish to deal with publishing files separately, as in my case it would be a waste of time. Everything is available in an archive within the Releases section. I am not familiar with GitHub and, in fact, have little desire to be.
