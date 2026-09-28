@@ -1,0 +1,1 @@
+I do not wish to figure out how to publish files separately, as it is a waste of time. Everything is available in an archive under Releases. I am not familiar with GitHub and, in fact, have no desire to be.
