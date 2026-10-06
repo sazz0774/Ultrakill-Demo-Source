@@ -1,1 +1,1 @@
-I do not wish to deal with publishing files separately, as in my case it would be a waste of time. Everything is available in an archive within the Releases section. I am not familiar with GitHub and, in fact, have little desire to be.
+I don’t want to upload or manage the files individually because that would be pointless and time-consuming for my situation. The complete project is already available as a downloadable archive in the GitHub Releases section. I don’t know much about GitHub, and I’m not particularly interested in learning how it works.
